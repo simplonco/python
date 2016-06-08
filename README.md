@@ -2,6 +2,8 @@
 
 >_[Training](https://github.com/simplonco/training) / Python_
 
+![Python](python.png)
+
 ## Exercises
 
 * [Playing Turtle](https://github.com/simplonco/playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
