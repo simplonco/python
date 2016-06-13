@@ -6,7 +6,7 @@
 
 ## Exercises
 
-* [Playing Turtle](https://github.com/simplonco/playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
+* [Playing Turtle](https://github.com/simplonco/python-playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
 * [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Ressources
