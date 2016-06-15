@@ -16,6 +16,8 @@
 * https://developers.google.com/edu/python/
 * https://openclassrooms.com/courses/apprenez-a-programmer-en-python
 
+https://github.com/vinta/awesome-python
+
 _To be continued.._
 
 ## Code snippets
