@@ -15,6 +15,8 @@
 * https://github.com/simplonco/on-the-road-to-python
 * https://developers.google.com/edu/python/
 * https://openclassrooms.com/courses/apprenez-a-programmer-en-python
+* http://www.learnpython.org/
+* http://campus.codeschool.com/courses/try-python/
 
 https://github.com/vinta/awesome-python
 
