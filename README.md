@@ -6,7 +6,7 @@
 
 ## Exercises
 
-* [Playing Turtle](https://github.com/simplonco/playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
+* [Playing Turtle](https://github.com/simplonco/python-playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
 * [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Ressources
@@ -15,6 +15,10 @@
 * https://github.com/simplonco/on-the-road-to-python
 * https://developers.google.com/edu/python/
 * https://openclassrooms.com/courses/apprenez-a-programmer-en-python
+* http://www.learnpython.org/
+* http://campus.codeschool.com/courses/try-python/
+
+https://github.com/vinta/awesome-python
 
 _To be continued.._
 
