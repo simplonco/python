@@ -18,6 +18,14 @@
 * http://www.learnpython.org/
 * http://campus.codeschool.com/courses/try-python/
 
+* https://docs.python.org/3/tutorial/index.html
+* http://www.codecademy.com/en/tracks/python
+* http://learnpythonthehardway.org/book/
+
++ https://www.codeschool.com/learn/python
++ https://learnxinyminutes.com/docs/python3/
++ https://developers.google.com/edu/python/
+
 https://github.com/vinta/awesome-python
 
 _To be continued.._
