@@ -23,8 +23,7 @@
 * https://www.codeschool.com/learn/python
 * https://learnxinyminutes.com/docs/python3/
 * https://developers.google.com/edu/python/
-
-https://github.com/vinta/awesome-python
+* https://github.com/vinta/awesome-python
 
 _To be continued.._
 
