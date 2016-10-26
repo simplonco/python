@@ -10,7 +10,7 @@
 
 * [Playing Turtle](https://github.com/simplonco/python-playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
 
-## Challenges
+## TDD Challenges
 
 > TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), can be imported from exercism.io
 
