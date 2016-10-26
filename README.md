@@ -18,7 +18,7 @@
 
 ## Ressources
 
-> Currated list of external urls - ressources
+> Currated list of external ressources
 
 * https://github.com/simplonco/learn-python
 * https://github.com/simplonco/on-the-road-to-python
