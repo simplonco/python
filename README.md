@@ -6,13 +6,19 @@
 
 ## Exercises
 
+> Exercices given without automated validation, with just a short subject / explanation
+
 * [Playing Turtle](https://github.com/simplonco/python-playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
 
 ## Challenges
 
+> TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), can be imported from exercism.io
+
 * :trophy: [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Ressources
+
+> Currated list of external urls - ressources
 
 * https://github.com/simplonco/learn-python
 * https://github.com/simplonco/on-the-road-to-python
