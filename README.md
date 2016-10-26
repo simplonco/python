@@ -6,13 +6,13 @@
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short subject / explanation
+> Exercices given without automated validation, with just a short explanation
 
 * [Playing Turtle](https://github.com/simplonco/python-playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
 
-## TDD Challenges
+#### TDD Challenges
 
-> TDD exercices validated by GitLab CI (cool for algorithms teaching: input => output), can be imported from exercism.io
+> TDD exercices validated by Travis CI (cool for algorithms teaching), was imported from exercism.io
 
 * :trophy: [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
