@@ -2,8 +2,6 @@
 
 >_[Training](https://github.com/simplonco/training) / Python_
 
-![Python](python.png)
-
 ## Exercises
 
 > Exercices given without automated validation, with just a short explanation
