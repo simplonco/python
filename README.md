@@ -2,14 +2,21 @@
 
 >_[Training](https://github.com/simplonco/training) / Python_
 
-![Python](python.png)
-
 ## Exercises
 
+> Exercices given without automated validation, with just a short explanation
+
 * [Playing Turtle](https://github.com/simplonco/python-playing-turtle) _Playing with a tiny turtle so cute :turtle: !_
-* [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
+
+#### TDD Challenges
+
+> TDD exercices validated by Travis CI (cool for algorithms teaching), was imported from exercism.io
+
+* :trophy: [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Ressources
+
+> Currated list of external ressources
 
 * https://github.com/simplonco/learn-python
 * https://github.com/simplonco/on-the-road-to-python
