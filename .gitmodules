@@ -10,9 +10,3 @@
 [submodule "challenges/python-challenges"]
 	path = challenges/python-challenges
 	url = https://github.com/simplonco/python-challenges
-[submodule "challenges/x-common"]
-	path = challenges/x-common
-	url = https://github.com/simplonco/x-common
-[submodule "challenges/xpython"]
-	path = challenges/xpython
-	url = https://github.com/simplonco/xpython
