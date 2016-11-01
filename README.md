@@ -20,16 +20,16 @@
 
 * https://github.com/simplonco/learn-python
 * https://github.com/simplonco/on-the-road-to-python
-* https://developers.google.com/edu/python/
+* https://developers.google.com/edu/python
 * https://openclassrooms.com/courses/apprenez-a-programmer-en-python
-* http://www.learnpython.org/
-* http://campus.codeschool.com/courses/try-python/
+* http://www.learnpython.org
+* http://campus.codeschool.com/courses/try-python
 * https://docs.python.org/3/tutorial/index.html
 * http://www.codecademy.com/en/tracks/python
-* http://learnpythonthehardway.org/book/
+* http://learnpythonthehardway.org/book
 * https://www.codeschool.com/learn/python
-* https://learnxinyminutes.com/docs/python3/
-* https://developers.google.com/edu/python/
+* https://learnxinyminutes.com/docs/python3
+* https://developers.google.com/edu/python
 * https://github.com/vinta/awesome-python
 
 
