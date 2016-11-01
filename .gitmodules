@@ -7,3 +7,6 @@
 [submodule "challenges/python-challenges"]
 	path = challenges/python-challenges
 	url = https://github.com/simplonco/python-challenges
+[submodule "ressources/on-the-road-to-python"]
+	path = ressources/on-the-road-to-python
+	url = https://github.com/simplonco/on-the-road-to-python
