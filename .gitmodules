@@ -1,9 +1,6 @@
 [submodule "ressources/learn-python"]
 	path = ressources/learn-python
 	url = https://github.com/simplonco/learn-python
-[submodule "ressources/on-the-road-to-python"]
-	path = ressources/on-the-road-to-python
-	url = https://github.com/simplonco/on-the-road-to-python
 [submodule "exercises/python-playing-turtle"]
 	path = exercises/python-playing-turtle
 	url = https://github.com/simplonco/python-playing-turtle
