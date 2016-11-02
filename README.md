@@ -14,7 +14,7 @@
 
 * :trophy: [Challenges](https://github.com/simplonco/python-challenges) _It will maybe hurt a bit, but for your good!_ :cactus:
 
-## Ressources
+## Resources
 
 > Currated list of external ressources
 
